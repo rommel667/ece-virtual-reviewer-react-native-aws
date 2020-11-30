@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ecevirtualreview-dev-111430-authRole",
+      "UnauthRoleArn": "arn:aws:iam::653134980630:role/amplify-ecevirtualreview-dev-111430-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::653134980630:role/amplify-ecevirtualreview-dev-111430-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-ecevirtualreview-dev-111430-deployment",
+      "UnauthRoleName": "amplify-ecevirtualreview-dev-111430-unauthRole",
+      "StackName": "amplify-ecevirtualreview-dev-111430",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:653134980630:stack/amplify-ecevirtualreview-dev-111430/2e22f1c0-32ba-11eb-b4e9-0a9a2b745e0a",
+      "AmplifyAppId": "d322j367u5flms"
+    }
+  }
+}
